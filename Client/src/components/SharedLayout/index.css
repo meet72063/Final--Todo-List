@@ -1,0 +1,20 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+   background-color: rgba(121, 120, 120, 0.658);
+   margin-top:0;
+   padding:0
+   
+   
+}
+.link{
+    color:black;
+    font-style: italic;
+    font-family:monospace
+    
+}
+
+.icon{
+   padding:1px
+}
